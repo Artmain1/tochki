@@ -17,3 +17,9 @@ Console.WriteLine("+");
 
 Console.SetCursorPosition(xc, yc);
 Console.WriteLine("+");
+
+int x = xa, y = xb;
+
+int count = 10;
+
+while 
