@@ -1,0 +1,15 @@
+C:\12\C#\tochki\obj\Debug\net6.0\tochki.csproj.AssemblyReference.cache
+C:\12\C#\tochki\obj\Debug\net6.0\tochki.GeneratedMSBuildEditorConfig.editorconfig
+C:\12\C#\tochki\obj\Debug\net6.0\tochki.AssemblyInfoInputs.cache
+C:\12\C#\tochki\obj\Debug\net6.0\tochki.AssemblyInfo.cs
+C:\12\C#\tochki\obj\Debug\net6.0\tochki.csproj.CoreCompileInputs.cache
+C:\12\C#\tochki\bin\Debug\net6.0\tochki.exe
+C:\12\C#\tochki\bin\Debug\net6.0\tochki.deps.json
+C:\12\C#\tochki\bin\Debug\net6.0\tochki.runtimeconfig.json
+C:\12\C#\tochki\bin\Debug\net6.0\tochki.dll
+C:\12\C#\tochki\bin\Debug\net6.0\tochki.pdb
+C:\12\C#\tochki\obj\Debug\net6.0\tochki.dll
+C:\12\C#\tochki\obj\Debug\net6.0\refint\tochki.dll
+C:\12\C#\tochki\obj\Debug\net6.0\tochki.pdb
+C:\12\C#\tochki\obj\Debug\net6.0\tochki.genruntimeconfig.cache
+C:\12\C#\tochki\obj\Debug\net6.0\ref\tochki.dll
