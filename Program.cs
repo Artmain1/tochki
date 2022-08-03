@@ -20,6 +20,9 @@ Console.WriteLine("+");
 
 int x = xa, y = xb;
 
-int count = 10;
+int count = 0;
 
-while 
+while (count < 10)
+{
+    int what = new Random().Next(0, 3);
+}
